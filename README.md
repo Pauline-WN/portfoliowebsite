@@ -27,11 +27,6 @@ This site is a reflection of who I am as a developer --- clean, interactive, and
 
 📁 Project Structure
 
-bash
-
-Copy
-
-Edit
 
 portfolio-website/
 
@@ -41,6 +36,6 @@ portfolio-website/
 
 ├── style.css           # Custom styles
 
-├── images/             # Images and icons
+├── images/             # Images
 
 └── README.md           # Project documentation
